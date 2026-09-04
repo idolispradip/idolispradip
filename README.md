@@ -11,7 +11,7 @@ My expertise spans powerful frontend architectures, robust backend APIs, and mod
 
 - 🌱 I’m currently learning **Data Science And Machine Learning,Network Security,**
 - 🤝 I’m looking for help with [razzawebit](https://www.razzawebit.com/)
-- 👨‍💻 All of my projects are available at [https://pradipdhakal.netlify.app/](https://pradipdhakal.netlify.app/)
+- 👨‍💻 All of my projects are available at ..................
 - 📫 How to reach me **pradipdhakal4455@gmail.com**
   
 
