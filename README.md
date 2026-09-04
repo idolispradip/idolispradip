@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradip dhakal</h1>
-<h3 align="center">A Passionate Web Developer from Nepal</h3>
+<h3 align="center">A Passionate Software Developer from Nepal</h3>
 
 I am a passionate Full-Stack Developer from Nepal who loves building clean, scalable, and high-performance digital experiences—across web, backend systems, and mobile apps.
 My expertise spans powerful frontend architectures, robust backend APIs, and modern mobile app ecosystems. I aim to create products that are beautiful, fast, and meaningful.
