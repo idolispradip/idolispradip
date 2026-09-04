@@ -17,11 +17,8 @@ Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 ## 🌟 About Me
 
 I am a passionate **Computer Engineering student and developer from Nepal** who enjoys building practical and meaningful digital solutions.
-
 My main interests include **Full-Stack Web Development, Backend Engineering, Artificial Intelligence, Machine Learning, Data Science, and Network Security**.
-
 I enjoy turning ideas into real-world applications and continuously improving my skills through projects, problem solving, and open-source development.
-
 - 🎓 **Computer Engineering Student**
 - 💻 **Full-Stack Web Developer**
 - 🐍 **Python & Django Developer**
@@ -187,3 +184,22 @@ AI Applications
 Network Security
        ↓
 System Design
+---
+
+## 🏁 Thank You for Visiting My Profile!
+
+<p align="center">
+  <b>Thank you for visiting my GitHub profile! 👋</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects.
+</p>
+
+<p align="center">
+  🚀 Let's build, learn, and create something amazing together!
+</p>
+
+<p align="center">
+  🇳🇵 Made with ❤️ from Nepal
+</p>
