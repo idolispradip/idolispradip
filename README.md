@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pradip dhakal</h1>
 <h3 align="center">A Passionate Web Developer from Nepal</h3>
 
-
+I am a passionate Full-Stack Developer from Nepal who loves building clean, scalable, and high-performance digital experiences—across web, backend systems, and mobile apps.
+My expertise spans powerful frontend architectures, robust backend APIs, and modern mobile app ecosystems. I aim to create products that are beautiful, fast, and meaningful.
+🔭 Currently building: Full-stack apps with React, Django & Node
+📱 Mobile development: React Native & Expo
+🤖 Learning: AI, ML, NLP & model integration
+💬 Ask me about: React, Django REST API, UI/UX, full-stack architecture
+⚡ Fun fact: I love turning raw ideas into a complete production-ready system
 
 - 🌱 I’m currently learning **Data Science And Machine Learning,Network Securit,**
-
 - 🤝 I’m looking for help with [razzawebit](https://www.razzawebit.com/)
-
 - 👨‍💻 All of my projects are available at [https://pradipdhakal.netlify.app/](https://pradipdhakal.netlify.app/)
-
 - 📫 How to reach me **pradipdhakal4455@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
