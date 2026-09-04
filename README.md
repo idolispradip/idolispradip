@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradip Dhakal</h1>
 
 <h3 align="center">
-Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+Computer Engineering Student | Full-Stack Developer | AI/ML & Network Security Enthusiast
 </h3>
 
 <p align="center">
